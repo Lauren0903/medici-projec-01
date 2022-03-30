@@ -56,17 +56,44 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\MusicControl.cs" />
     <Compile Include="Assets\anim.cs" />
     <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\image\GameLoad.cs" />
+    <Compile Include="Assets\MusicControl1.cs" />
     <Compile Include="Assets\IntroManager.cs" />
     <Compile Include="Assets\LastPlayer.cs" />
-    <Compile Include="Assets\MusicControl.cs" />
-    <Compile Include="Assets\MusicControl1.cs" />
+    <Compile Include="Assets\Assets\CameraRotate.cs" />
+    <Compile Include="Assets\Assets\FollowerMove.cs" />
+    <Compile Include="Assets\Assets\FollowerMove3.cs" />
+    <Compile Include="Assets\Assets\Billboard.cs" />
+    <Compile Include="Assets\Assets\PlayerMove.cs" />
+    <Compile Include="Assets\Assets\script\movingblock.cs" />
+    <Compile Include="Assets\Assets\Conifers [BOTD]\Render Pipeline Support\Built-in RP\CTI Runtime Components\Scripts\CTI_Utils.cs" />
+    <Compile Include="Assets\Assets\FollowerMove2.cs" />
+    <Compile Include="Assets\Assets\script\PlayerMovement.cs" />
+    <Compile Include="Assets\Assets\script\moving.cs" />
+    <Compile Include="Assets\Assets\PlayerRotate.cs" />
+    <Compile Include="Assets\Assets\Conifers [BOTD]\Render Pipeline Support\Built-in RP\CTI Runtime Components\Scripts\CTI_CustomWind.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Assets\Conifers [BOTD]\Render Pipeline Support\Built-in RP\CTI Runtime Components\Shaders\CTI_LOD_Bark_Array_301.shader" />
+    <None Include="Assets\Assets\Conifers [BOTD]\Render Pipeline Support\Built-in RP\CTI Runtime Components\Shaders\CTI_LOD_Billboard_301.shader" />
+    <None Include="Assets\Assets\Conifers [BOTD]\Render Pipeline Support\Built-in RP\CTI Runtime Components\Resources\CTI_Camera-DepthNormalTexture_301.shader" />
+    <None Include="Assets\Assets\BrokenVector\LowPolyTreePack\README.txt" />
+    <None Include="Assets\Assets\Conifers [BOTD]\Conifers [BOTD] URP Readme.txt" />
     <None Include="Assets\3DBeginner_Third-PartyNotice.txt" />
+    <None Include="Assets\Assets\Conifers [BOTD]\Render Pipeline Support\Built-in RP\CTI Runtime Components\Resources\CTI_Internal-DeferredShading.shader" />
+    <None Include="Assets\Assets\Conifers [BOTD]\Getting started.txt" />
+    <None Include="Assets\Assets\Conifers [BOTD]\Render Pipeline Support\Built-in RP\CTI Runtime Components\Shaders\Includes\CTI_BillboardVertex_301.cginc" />
+    <None Include="Assets\Assets\Conifers [BOTD]\Render Pipeline Support\Built-in RP\CTI Runtime Components\Shaders\Includes\CTI_TranslucentLighting_301.cginc" />
+    <None Include="Assets\Assets\Conifers [BOTD]\Render Pipeline Support\Built-in RP\CTI Runtime Components\Shaders\CTI_LOD_Bark_301.shader" />
+    <None Include="Assets\Assets\Conifers [BOTD]\Render Pipeline Support\Built-in RP\CTI Runtime Components\Resources\CTI_Internal-DeferredReflections.shader" />
+    <None Include="Assets\Assets\Conifers [BOTD]\Render Pipeline Support\Built-in RP\CTI Runtime Components\Shaders\Includes\CTI_indirect.cginc" />
     <None Include="Assets\BrokenVector\LowPolyTreePack\README.txt" />
+    <None Include="Assets\Assets\Conifers [BOTD]\Render Pipeline Support\Built-in RP\CTI Runtime Components\Shaders\CTI_LOD_Leaves_301.shader" />
+    <None Include="Assets\Assets\Stylized Nature Environment\ReadMe.txt" />
+    <None Include="Assets\Assets\Conifers [BOTD]\Render Pipeline Support\Built-in RP\CTI Runtime Components\Shaders\Includes\CTI_Builtin4xTreeLibraryTumbling_301.cginc" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
